@@ -1,11 +1,11 @@
 # Personal info
-Name: 宋昊阳
-Email: songhaoyang0523@gmail.com & 1627635056@qq.com
-Job: 来康生命 AI 算法 NLP在职
-Language: zh & en
-Skill: python & shell & 
-Relate Work: NLP，关系抽取，知识图谱，Rasa，LLM训练,落地应用，LM有效上下文扩充，幻觉及事实一致性，Self-Instruct，Prompt Engineering
-Instrest: 摄影，元宇宙，AR，旅行，体验
+- Name: 宋昊阳
+- Email: songhaoyang0523@gmail.com & 1627635056@qq.com
+- Job: 来康生命 AI 算法 NLP在职
+- Language: zh & en
+- Skill: python & shell &
+- Relate Work: NLP，关系抽取，知识图谱，Rasa，LLM训练,落地应用，LM有效上下文扩充，幻觉及事实一致性，Self-Instruct，Prompt Engineering
+- Instrest: 摄影，元宇宙，AR，旅行，体验
 
 ## 相关学习应用实践
 - 领域： 大健康，医疗
