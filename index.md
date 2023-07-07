@@ -1,4 +1,4 @@
-# Personal info
+## Personal info
 - Name: 宋昊阳
 - Email: songhaoyang0523@gmail.com & 1627635056@qq.com
 - Job: 来康生命 AI 算法 NLP在职
@@ -7,7 +7,7 @@
 - Relate Work: NLP，关系抽取，知识图谱，Rasa，LLM训练,落地应用，LM有效上下文扩充，幻觉及事实一致性，Self-Instruct，Prompt Engineering
 - Instrest: 摄影，元宇宙，AR，旅行，体验
 
-## 相关学习应用实践
+### 相关学习应用实践
 - 领域： 大健康，医疗
 - 具体内容：
   - 基于规则逻辑及画像的食材食谱推荐，相关量计算(蒙特卡洛模型-有约束非线性规划)
