@@ -18,4 +18,4 @@
   - LLM(ChatGLM-6b, Bloom7b, baichuan-7b, tigerbot-7b, lamma-7b)等sft微调实践(lora, qlora)
   - Self-Instruct实践 + [提示工程指南](https://www.promptingguide.ai/zh)
   - LLM + KG 在辅助诊断方面的应用
-  - LLM有效上下文窗口扩充(https://blog.gopenai.com/how-to-speed-up-llms-and-use-100k-context-window-all-tricks-in-one-place-ffd40577b4c)
+  - [LLM有效上下文窗口扩充](https://blog.gopenai.com/how-to-speed-up-llms-and-use-100k-context-window-all-tricks-in-one-place-ffd40577b4c)
