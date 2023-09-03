@@ -1,6 +1,7 @@
 ## Personal info
 - Name: 宋昊阳
 - Email: songhaoyang0523@gmail.com & 1627635056@qq.com
+- Tel: 15680605607
 - Job: 来康生命 AI组 NLP算法 在职
 - Language: zh & en
 - Programming Language: python & shell
